@@ -1,0 +1,11 @@
+THIRD-PARTY NOTICE
+==================
+
+The LICENSE in this repository (CC-BY-SA-4.0) applies to this repository's own
+configuration, documentation, and packaging files only.
+
+The font file `siddhanta.ttf` is a THIRD-PARTY work — the Siddhanta Devanagari
+font by Mihail Bayaryn — distributed under the font author's own license terms.
+It is NOT relicensed by this repository and is NOT covered by the repository
+LICENSE. Refer to the font author's own terms for permitted use of
+`siddhanta.ttf`.
