@@ -47,6 +47,21 @@ which keeps its own local copy of the font file). Load the font from the
 GitHub Pages URL above, or vendor a local copy, honoring the font's
 CC BY-NC-ND 3.0 terms.
 
+## Conjunct-coverage authority — Scharf's 12-font comparison (crossrow, H5510)
+
+Peter M. Scharf, *Sanskrit characters: a comparison of 12 fonts and their coverage of
+conjuncts* (The Sanskrit Library, 5 August 2023) tabulates the full Sanskrit conjunct
+inventory against 12 fonts (columns: SKT, SKT option, Chandas, Uttara, **Siddhanta**,
+San2003, San2020, Shobhika, ShobhikaB, SanTxt, Praja, Arial, DevMT, Mangal, beside
+SLP1/Roman reference columns). It is the authority to cite when a rendering consumer
+asks *which conjuncts actually shape* in the font served here: Siddhanta is one of the
+12 fonts compared, and the PDF's tables decide any coverage dispute without local
+re-testing. Free PDF: <https://sanskritlibrary.org/pub/chars.pdf> (landed copy with
+rights note:
+[SanskritLexicography/literature/](https://github.com/gasyoun/SanskritLexicography/tree/master/literature);
+census:
+[SANSKRITLIBRARY_PUBLICATIONS_CENSUS_26-09-2026.md](https://github.com/gasyoun/SanskritLexicography/blob/master/SANSKRITLIBRARY_PUBLICATIONS_CENSUS_26-09-2026.md)).
+
 ## Issue conventions
 
 This is a build-meta / asset-hosting repository and follows the
